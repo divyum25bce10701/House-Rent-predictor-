@@ -253,8 +253,8 @@ The project includes a Streamlit app where users can:
 ## How to Run the Project
 
 ### 1. Clone Repository
-git clone https://github.com/AdishAZ/House-rent-predictor  
-cd House-rent-predictor
+git clone https://github.com/divyum25bce10701/House-Rent-predictor-.git
+House-rent-predictor
 
 ### 2. Create Virtual Environment
 python -m venv venv  
